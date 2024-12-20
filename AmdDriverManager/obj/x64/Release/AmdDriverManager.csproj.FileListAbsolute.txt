@@ -1,0 +1,11 @@
+C:\Users\MyAlien\source\repos\AmdDriverManager\AmdDriverManager\bin\x64\Release\AmdDriverManager.exe.config
+C:\Users\MyAlien\source\repos\AmdDriverManager\AmdDriverManager\bin\x64\Release\AmdDriverManager.exe
+C:\Users\MyAlien\source\repos\AmdDriverManager\AmdDriverManager\bin\x64\Release\AmdDriverManager.pdb
+C:\Users\MyAlien\source\repos\AmdDriverManager\AmdDriverManager\obj\x64\Release\AmdDriverManager.csproj.AssemblyReference.cache
+C:\Users\MyAlien\source\repos\AmdDriverManager\AmdDriverManager\obj\x64\Release\AmdDriverManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\MyAlien\source\repos\AmdDriverManager\AmdDriverManager\obj\x64\Release\AmdDriverManager.Form1.resources
+C:\Users\MyAlien\source\repos\AmdDriverManager\AmdDriverManager\obj\x64\Release\AmdDriverManager.Properties.Resources.resources
+C:\Users\MyAlien\source\repos\AmdDriverManager\AmdDriverManager\obj\x64\Release\AmdDriverManager.csproj.GenerateResource.cache
+C:\Users\MyAlien\source\repos\AmdDriverManager\AmdDriverManager\obj\x64\Release\AmdDriverManager.csproj.CoreCompileInputs.cache
+C:\Users\MyAlien\source\repos\AmdDriverManager\AmdDriverManager\obj\x64\Release\AmdDriverManager.exe
+C:\Users\MyAlien\source\repos\AmdDriverManager\AmdDriverManager\obj\x64\Release\AmdDriverManager.pdb
